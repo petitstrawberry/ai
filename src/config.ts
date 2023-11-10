@@ -8,6 +8,8 @@ type Config = {
 	reversiEnabled: boolean;
 	notingEnabled: boolean;
 	chartEnabled: boolean;
+	pollEnabled: boolean;
+	mazeEnabled: boolean;
 	serverMonitoring: boolean;
 	mecab?: string;
 	mecabDic?: string;
